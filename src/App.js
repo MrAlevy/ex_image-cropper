@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
 
-import { AddClubForm } from './containers/addClubForm/AddClubForm';
+import DadataTest from './containers/DadataTest';
 
 function App() {
   return (
     <div className='App'>
-      <AddClubForm />
+      <DadataTest />
     </div>
   );
 }
